@@ -1,6 +1,11 @@
 ---
 layout: single
 title:  "[Conor] 마크다운 단축키 ( MarkDown ShortCut )"
+description : "MarkDown Shortcut 마크다운 단축키"
+tags : [md]
+comments : true
+published : true
+categories : md
 ---
 
 # 단축키 ( Shortcut )
