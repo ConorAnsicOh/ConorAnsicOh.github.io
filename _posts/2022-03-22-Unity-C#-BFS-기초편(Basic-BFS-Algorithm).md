@@ -6,8 +6,7 @@ tags : [BFS]
 comments : true
 published : true
 categories : Unity Exercise
-typora-copy-images-to : ..\images\2022-03-22
-
+classes : wide
 ---
 
 
