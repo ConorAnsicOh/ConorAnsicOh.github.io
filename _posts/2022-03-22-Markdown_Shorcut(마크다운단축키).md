@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "[Conor] 마크다운 단축키 ( MarkDown ShortCut )"
+---
+
 # 단축키 ( Shortcut )
 
 ### 첫날은 Markdown 유용한 단축키에 대해 공부해 봤습니다.
