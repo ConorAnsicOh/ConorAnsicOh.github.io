@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "[Conor] 마크다운 단축키 ( MarkDown ShortCut )"
 ---
 
