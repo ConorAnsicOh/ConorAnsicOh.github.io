@@ -6,6 +6,7 @@ tags : [md]
 comments : true
 published : true
 categories : md
+classes : wide
 ---
 
 # 단축키 ( Shortcut )
