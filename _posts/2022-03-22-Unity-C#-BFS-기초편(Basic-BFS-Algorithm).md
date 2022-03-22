@@ -16,7 +16,7 @@ typora-copy-images-to : ..\images\2022-03-22
 
 ​	Algorithm Route
 
-![BFS](C:\Users\dhdks\OneDrive\바탕 화면\BFS.png)
+![BFS](..\images\2022-03-22\BFS.png)
 
 ​	Source
 
