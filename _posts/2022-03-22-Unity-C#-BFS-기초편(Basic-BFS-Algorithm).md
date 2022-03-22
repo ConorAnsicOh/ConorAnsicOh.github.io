@@ -16,7 +16,7 @@ typora-copy-images-to : ..\images\2022-03-22
 
 ​	Algorithm Route
 
-![BFS](..\images\2022-03-22\BFS.png)
+![BFS](https://github.com/ConorAnsicOh/conoransicoh.github.io/blob/master/_images/2022-03-22/BFS.png?raw=true)
 
 ​	Source
 
