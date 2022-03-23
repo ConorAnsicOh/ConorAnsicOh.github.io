@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Unity C# 트리 구조 기초편 ( Basic Tree Structure Algorithm )"
+title: "[Conor] Unity C# 트리 구조 기초편 ( Basic Tree Structure Algorithm )"
 description : "Tree Structure Baisc"
 tags : [Algorithm]
 comments : true
