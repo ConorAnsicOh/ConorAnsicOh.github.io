@@ -2,10 +2,10 @@
 layout: single
 title: "Unity C# BFS 기초편(Basic BFS Algorithm)"
 description : "Simple implementation of BFS, one of the path finding logics. (길찾기 로직중 하나인 BFS를 간단히 구현해보기)"
-tags : [BFS]
+tags : [Algorithm]
 comments : true
 published : true
-categories : Unity Exercise
+categories : Unity-Exercise BFS Algorithm C#
 classes : wide
 ---
 
