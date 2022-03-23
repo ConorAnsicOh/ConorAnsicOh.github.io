@@ -1,7 +1,7 @@
 ---
 layout: single
-title: ""
-description : ""
+title: "Unity C# 트리 구조 기초편 ( Basic Tree Structure Algorithm )"
+description : "Tree Structure Baisc"
 tags : [Algorithm]
 comments : true
 published : true
