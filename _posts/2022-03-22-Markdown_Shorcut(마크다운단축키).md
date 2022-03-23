@@ -5,7 +5,7 @@ description : "MarkDown Shortcut 마크다운 단축키"
 tags : [md]
 comments : true
 published : true
-categories : md
+categories : md tip shortcut
 classes : wide
 ---
 
