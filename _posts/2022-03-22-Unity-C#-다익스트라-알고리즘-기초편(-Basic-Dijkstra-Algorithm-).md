@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Unity C# 다익스트라 알고리즘 기초편( Basic Dijkstra Algorithm )"
+title: "[Conor] Unity C# 다익스트라 알고리즘 기초편( Basic Dijkstra Algorithm )"
 description : "Implementing Dijkstra Algorithm Using C# ( C#을 이용하여 다익스트라 알고리즘을 구현해보기 )"
 tags : [Algorithm]
 comments : true
