@@ -5,7 +5,7 @@ description : "unity shortcut"
 tags : [Unity]
 comments : true
 published : true
-categories : Unity tip shortcut
+categories : Tip
 classes : wide
 ---
 

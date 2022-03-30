@@ -5,7 +5,7 @@ description : "Unity Error Collection"
 tags : [Error]
 comments : true
 published : true
-categories : Unity Error Collection
+categories : Error
 cdlasses : wide
 ---
 

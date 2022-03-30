@@ -5,7 +5,7 @@ description : "Tip"
 tags : [Tip]
 comments : true
 published : true
-categories : Unity Frame Change
+categories : Tip
 cdlasses : wide
 ---
 

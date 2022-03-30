@@ -5,7 +5,7 @@ description : "easier way to manage Unity files"
 tags : [Tip]
 comments : true
 published : true
-categories : Unity Folder Management
+categories : Tip
 cdlasses : wide
 ---
 
