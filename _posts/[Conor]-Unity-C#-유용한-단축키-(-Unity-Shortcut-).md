@@ -5,7 +5,7 @@ description : "unity shortcut"
 tags : [Unity]
 comments : true
 published : true
-categories : Tip
+categories : Unity tip shortcut
 classes : wide
 ---
 
@@ -38,6 +38,7 @@ classes : wide
 | E    | Can be rotated about the axis. ( 축을 중심으로 회전 시키기 ) |
 | R    | Scale change. ( 스케일 변경 )                                |
 | F2   | Rename ( 이름 변경 )                                         |
+| F    | Focus Object And adjust the transmittance of Object          |
 
 #### ○ Camera selection status ( 카메라를 선택한 상태 )
 
