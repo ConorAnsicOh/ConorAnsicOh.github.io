@@ -47,3 +47,9 @@ classes : wide
 | Ctrl + Shift + F | Brint the camera to the present point of view ( 현재 보는 시점으로 카메라를 위치한다. ) |
 |                  |                                                              |
 
+#### ○ Visual Studio Shortcut
+
+| Key          | Function                                                    |
+| ------------ | ----------------------------------------------------------- |
+| Ctrl + k + c | Annotate the selected area. ( 선택 영역을 주석처리 합니다.) |
+
