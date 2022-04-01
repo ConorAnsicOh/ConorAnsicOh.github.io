@@ -6,7 +6,7 @@ tags : [Error]
 comments : true
 published : true
 categories : Error
-cdlasses : wide
+classes : wide
 ---
 
 ### ⊙Unity Error Collection ( 에러 모음 )
