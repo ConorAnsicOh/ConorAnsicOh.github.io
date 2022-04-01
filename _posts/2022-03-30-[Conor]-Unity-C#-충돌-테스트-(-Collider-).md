@@ -6,7 +6,7 @@ tags : [collider]
 comments : true
 published : true
 categories : Unity-Exercise
-cdlasses : wide
+classes : wide
 ---
 
 ### ⊙Collision Test
