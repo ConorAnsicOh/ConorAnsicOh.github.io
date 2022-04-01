@@ -6,10 +6,8 @@ tags : [Raycasting]
 comments : true
 published : true
 categories : collision
-cdlasses : wide
+classes : wide
 ---
-
-ㅁ
 
 ### ⊙ Unity Raycasting Test
 
